@@ -1,0 +1,624 @@
+
+................................................................Day 2.......................................................................................
+attribute amd method for processing
+objected orrented language
+complicatde
+more time to complie
+
+
+<-----------------
+event reven programming language---------------
+
+procedural programming language         objected orrented 
+less securited                              more secured
+top down apporachrd                          bottom up apparoached
+function is more important                       data is hidden & is more important
+eg : c, fortanenet                                 eg : c++, java, python, c# etc.
+
+
+language processor
+php= gives source code to owner                   Dot net/c#= close source code
+
+language processor
+-it is a special type of computer software,translate the source code of program to meachine code.
+-its work is written in high lavel language into machine level language.
+
+-------------------------------------------------------
+Ascie character set=eg: A value is =65.   
+series of numberic value is ascie
+
+---------------------------
+types of language processor
+-assembler
+-interpreter-----------day 3
+-comiler-------------day 3
+web base application class after 2 3 weeks.
+
+
+high lavel language
+
+Reactive/Event(Click) driven programming language(Java Script is an intepreter)  eg;like in fb,
+
+bug=error in pl
+debug= to remove bug
+
+
+---------------------------------------------------------------------------
+https-hyper text transfer protocol secure
+-Its secure
+
+
+syntax=rules that define structure of language
+ip=internet protocol
+protocol=set of rules
+Domain:www.google.com
+url=address of the websites 
+algorithm=special/step by step process for solving any problem/completing specific task.
+structure=
+source code=
+
+Language Processor;
+Interpreter=source code into machine & read line by line.
+compiler=compile as whole & reads.
+-------------------------------------------INDRA BASNET----------------------------------------------
+php programming language
+ 
+<?php
+@#@##$#$%!@@!#@1243=encrypted language
+
+
+$uname =$_POST['uname'];
+$pass = $_POST['pass'];
+$sql =" select * from user";
+$query = ($conn,$sql);
+$query_fire = mysqli_fetch_arrey($query){
+<tr>
+  <th><?php echo $query_fire['$uname'];?>username</th>
+  <th><?php echo $query_fire['$pass'];?>username</th>
+
+</tr>
+function bishal($prelevel $uname){
+<tr>
+  <th><?php echo $query_fire['$prelavel'];?>username</th>
+  <th><?php echo $query_fire['$pass'];?>username</th>
+
+</tr>
+}
+
+if echo "bishal(1,bishal)"
+else{
+<h1>connection failled</h1>
+}
+
+}
+
+
+
+?>
+.............................................................................Day 3.............................................................................
+
+
+exefile =if click it is executed
+
+extension=aassisto of a file
+If there is no extension the os cannot perform the file task.
+
+
+compiler=eg;c,c++,java
+intepreter=python,js,perl,etc.
+
+Disable js in chrome from settings of your default browser.
+
+JS have open source code(client side script) & IS AN interpreter.
+
+syntax error=compile time error  
+logic  "  " = The decision is wrong in programming eg=a+b/2 
+runtime "  "=running state ma aauna error eg;wrong function 
+
+statement terminator =(;)Semicolom
+R=String
+Ram=Character
+
+IDEs=Intergrated Development Environment.
+
+object code=machine languagae code
+
+Terminate=
+
+Software is collection of program program is a small unit of software.
+............................................................................................................................................................
+
+Features of the good program
+
+Portability = 
+
+Readability = easy to read
+
+Efficiency = which uses less amount of resource.
+
+User Interface = 
+
+Structural = 
+
+Flexiability = which can easily adopt any kind of change.
+ 
+Generally = which is developed for a particular organization & which can suit all other similar org.
+
+Documentation =
+..............................................................................................................................................................
+
+A programming paradigm is a style, or "way", of programming.
+
+Types;
+
+
+
+
+
+
+
+
+Procedual program paradigm; eg=C program
+
+a)divided (into small function) main task into small task.
+
+b)we take code into functions.
+
+
+OOP supports;
+
+inheritence
+
+incapsulation
+
+Polymerfism
+
+One function can pass from one place to another 
+
+Object communicate with the object because data is hidden
+
+data or attributes
+
+method 
+
+hyper threading = 
+
+Parallel Processing Approach;
+
+It is the processing of program instructions by dividing them among multiple processors.
+
+Super computer follows.
+..............................................................
+Declarative & imprerative programming paradigm;
+
+What need to be solve.
+
+PROLOG= Programming in logic
+use in debugging 
+easy to implement code
+used in AI
+................................................................
+function can use in variable.
+
+Polimarism=multiple form
+
+Parallfelism & concurrency.
+
+immutability=which value dosent change
+
+.......................................................................Day 3................................................................................
+
+deriverable=finished products.eg;walls,plaster in houses.unit ,software.
+*Software development model/methodology is the techniques,design tools.
+It depend in the nature of the project.Time conusmtion. 
+design=changes
+
+*Different types of software development project/life cycle;
+
+*Waterfall model stteps;
+Requirement analysis=needs (is taken from the client)
+(flow of the information in the system)Design=system analyst/team leader
+Implementation=(coding)developer is needed 
+Test=to cheak the error 
+Installation=deployment
+Maintenance=error while we are using the product
+
+*Waterfall Model:When the requirement is clear :
+We dont return back to test again after testing
+Requirement is clear crystal
+When version is being update we can use it.
+Integration have issue in last.
+
+*Prototyping Model is simply known as sample.
+A sample is made bcau the requirement is complicated/confusing.
+
+*Benefits:
+Developes learn from the customers.
+Error can be deceted easily.
+
+*Weakness:
+Can be lenthy.
+Customer can take the project without finishing.
+Maintaibility=Complexcity can be extend.
+
+*RAD Model;Rapid=fast
+Short development life cycle 
+incrementation (we make differnt teams)
+Different teams make different programs
+Reduce cycle time 
+It is use in the short project.
+Customer satisfaction is involved from the first.
+We can divide small project & process into sub project & process.
+system & user process is seen.
+Modularized=cannot divide into small module/sub system amomg different teams.
+module=real life object 
+
+
+*SDLC Model/Evoluationary Model-requirement keeps on evolving overtime. SDLC=Software development life cycle
+Requirement is prioritize & distinguish properly.
+
+*Phases:
+Requirement analysis
+Design
+Code/Implementation
+Test
+
+Benefits:
+Change in requirement is easy.
+
+
+*Weakness:
+Know the requirement of Fully functional System we can divide it into incremental model
+
+We use ;
+A need to get the basic functionality to the market early.
+On a project with new technology.
+
+*Spiral Model/Evoluationary Model:
+Made uo of waterfall/classical & prototype model
+Design to user feedback.
+
+*Divided into 4 phases:
+Planning
+Risk Analysis
+Development & testing-actual devlopment
+Evaluation-Evaluate outout & planning
+
+*Benefits:
+Users sere the system early.
+
+*Weakness:
+Management is more complex.
+Use in large projects.
+If we use it in small project than it will be expensive.
+Requires excessive documentation.
+
+*used:
+Unsure of the need.
+Extensive planning.
+New in market.
+
+*Agile model:
+agile means the ability of responding to change.
+Unsure of the requirement to customer 
+Exensive & Time consuming.
+Realistic approach 
+Welcome changing requirements even late in development.
+Change in need as per demand.
+
+*Weakness:
+Less predectively
+More time & commitment
+Project easily falls off track(change in installment)/less managable
+Expensive
+
+
+
+
+VB=Visual Basic
+architecture=design
+QA team=Teating team
+UAT=User Accptance testing
+Technical tester
+Bug bounty is also use for testing
+Project depends on budget
+Documantation:process,
+pseudo=false
+pseudocode=false code (which can be used for our understanding/user understanding code)
+If there is no design than we cannot implement the code.
+
+..............................................................................Day 4.......................................................................................
+
+*System Design Tools:
+-shapes symbols,tables represent flow of system,conditions & actions to be taken while imolementing the code.
+system design tools:
+*Data flow diagram(DFD)
+in software flow of data from one component to another.
+
+*Pseudo-Code
+Decision Tables
+E-R(ENTITY RELATION SHIP )Diagram map the design of database.
+
+Entity-(Costumer) intraction with system 
+Browse-process
+Data store-store the data 
+
+Level 0 DFD-context diagram
+Decision table is use for testing & requirement.We can use it in different complex logic.
+
+*Er Diagram
+It have one 2 many relationship.
+Difficult to find the relationship.
+Entity can have many entity relationship.
+Primary Key have only one & main element.
+
+.................................................................Day 5......................................................................................
+scale= expand
+loop
+if else
+array=
+basic concepts
+
+USIX=OS
+
+C was re write in unix.
+look & feel matters in website.
+Investment in branding is to impact the consumers.
+HTML languge is standarized by the W3C.
+Drivers in computer means communication/inteaction of OS & hardware(printer/mouse).
+
+Disk Difragmentation=?
+
+Blue ray
+
+Types of formatting;
+Low level formatting is from company.
+high level formatting is dump from user.
+Ethernet=connecting wires with router.
+
+Screeen saver is used to change the screen.
+
+C can interact with system.
+Statically type/strongly type=The type should be defined.eg:A=12.
+variable=vary from other.
+If there is function you can call it we should not write again for that/Library with rich functions.
+HTML is system independent.
+Easy to Extend=We can add library.
+
+#include<stdio.h>=<standard input output.header> bulid in function will be affected i.e. printf.
+#include<conio.h>=<consoul input output.header>
+main()=function
+void main()=
+{=start of function.
+}=end of function.
+comment=increase the reability of the program.
+printf= build in function(compiler defined function)
+void=nothing
+add=user defined function
+string=series of character
+
+windows crash is due to 
+windows freeze there is no execution,bexaduse of heavy software,processing.
+\n=new character
+
+..................................................................................Day 6.....................................................................
+
+
+Comment(/*...*/) does not add value to the compiler i.e. C program.
+Comment Increase readability.
+HTML,C ignores white space & indentation  by compiler.
+NBSP=Non breaking space for 2 space.
+<br>=break row.
+\n=escape character & start new line.
+sematic error=after running the program we get it.
+syntatic error=before running a file it should pass the compiler while debugging.
+<strong>=important file/anything important
+
+symantic/meaningful concept wave=HTML 5
+W3C=World Wide Web Consultant.
+HTML is a root element.
+Title bar is used in SEO.
+
+lowest representation of data is called bit.
+RAM has Integrated Circuit.Integrated circuits are made up of transistors.
+
+ASCII CHARACTER SET:
+Parity error-0
+
+1 byte=8 bit
+1 bit=8 value
+
+%d=format specifier[
+C is case sensative.
+printf is used to prontstring as well as variable
+print(argument)/string-function takes argument.This present output in C program.
+scanf(argument,argument)-This present input in C program.
+modulas operator store reminder.
+and percent means address in C program.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

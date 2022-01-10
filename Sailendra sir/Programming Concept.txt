@@ -1,0 +1,9 @@
+........................................................................Day 2...............................................................................
+
+
+A programming language is a set of commands, instructions, and other syntax use to create a software program.
+
+Meanings;
+Commands:
+Instructions:
+Syntax:
